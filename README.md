@@ -64,5 +64,114 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Listen360 is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://listen360.com/
+Listen360 provides a customer experience management platform for enterprise multi-location brands, franchises, and private equity‑backed businesses. It transforms customer feedback into actionable intelligence, helping companies improve consistency, strengthen reputation, reduce revenue leakage, and drive predictable growth across all locations. The platform offers survey collection, NPS and satisfaction measurement, AI‑powered analytics, and reporting tools to turn insights into strategic actions.
+
+**Areas:** Customer Experience · Feedback Management · Reputation Management · Enterprise Software · Multi‑Location Brands · NPS · Survey Platform
+
+## Listen360 on APIs.io
+
+Everything profiled for Listen360 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/listen360/](https://apis.io/providers/listen360/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Listen360 REST API](https://apis.io/apis/listen360/listen360-rest-api/) — The Listen360 REST API provides programmatic access to organizations, customers, jobs, memberships, technicians, custom attributes, reviews, and file uploads.
+- [Listen360 API](https://apis.io/apis/listen360/listen360-api/) — Listen360 API as documented publicly: 9 operations. Contract generated from the documentation by API Evangelist (2026-11-16); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (4)
+
+The data models the API reads and writes.
+
+- [GetOrganizations1ReviewsCsvResponse](https://apis.io/schemas/listen360/listen360-get-organizations1-reviews-csv-response/)
+- [PostOrganizationsXmlRequest](https://apis.io/schemas/listen360/listen360-post-organizations-xml-request/)
+- [PostOrganizationsXmlResponse](https://apis.io/schemas/listen360/listen360-post-organizations-xml-response/)
+- [PostUploadRequest](https://apis.io/schemas/listen360/listen360-post-upload-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Listen360 Context](https://apis.io/jsonld/listen360/listen360-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Listen360 API Rules](https://apis.io/rules/listen360/listen360-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Listen360 Domain Security](https://apis.io/security/listen360/listen360-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.listen360.com/)
+- [Documentation](https://www.listen360.com/platform)
+- [Support](https://www.listen360.com/support)
+- [Blog](https://www.listen360.com/blog)
+- [Terms of service](https://www.listen360.com/terms-of-service)
+- [Privacy policy](https://www.listen360.com/privacy-policy)
+- [GitHub](https://github.com/listen360)
+
+## API Evangelist rating
+
+**Kin Score 37.5** — thin · rubric 0.27.0 · scored 2026-11-16
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 47.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 26.2 |
+| Access clarity | 21.1 |
+
+**Agent readiness 17.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/listen360/](https://apis.io/providers/listen360/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Listen360: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/listen360/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
